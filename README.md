@@ -1,4 +1,4 @@
-# 📦 Dust2.se Archive
+# 📦 Dust2.se Archive 🇸🇪
 
 ### [rskcs2.github.io/Dust2.se/archive](https://rskcs2.github.io/Dust2.se/archive)
 
