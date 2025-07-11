@@ -32,9 +32,8 @@ In English:
 
 With the official site now offline, this archive ensures that the voices, stories, and history captured by Dust2.se remain accessible.
 
-## Usage
+## About
 
-1. **Clone this repository**  
-   ```bash
-   git clone https://github.com/your‑username/dust2‑archive.git
-   cd dust2‑archive
+This website was created by HLTV.org.
+I do not own Dust2.se and take no credit for HLTV’s work.
+This project is purely for the preservation and sharing of lost media; no money is made from it.
