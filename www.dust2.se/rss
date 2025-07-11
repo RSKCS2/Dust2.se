@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+   <channel>
+      <title>www.dust2.se</title>
+      <description>Dust2.se - CS-nyheter och community</description>
+      <link>https://www.dust2.se/</link>
+      <language>SV</language>
+      <ttl>60</ttl>
+      <image>
+         <url>https://www.dust2.se/dust2/img/static/dust2logo.png</url>
+         <title>www.dust2.se</title>
+         <link>https://www.dust2.se/</link>
+      </image>
+      <atom:link href="https://www.dust2.se/rss"
+                 rel="self"
+                 type="application/rss+xml"/>
+      <item>
+         <title>Dust2 upphör med sin verksamhet</title>
+         <description>Hejdå Sverige</description>
+         <link>https://www.dust2.se/news/54655/dust2-upphor-med-sin-verksamhet</link>
+         <guid isPermaLink="false">news54655</guid>
+         <pubDate>Thu, 31 Oct 2024 11:11:00 +0100</pubDate>
+      </item>
+      <item>
+         <title>Ny uppdatering till CS – gör hopp mer konsekventa</title>
+         <description>Flera hopp blir nu lite lättare.</description>
+         <link>https://www.dust2.se/news/54603/ny-uppdatering-till-cs-gor-hopp-mer-konsekventa</link>
+         <guid isPermaLink="false">news54603</guid>
+         <pubDate>Tue, 29 Oct 2024 09:13:00 +0100</pubDate>
+      </item>
+      <item>
+         <title>Officiellt: Golden blir ny coach för SAW</title>
+         <description>Svensken tar över coachrollen i det portugisiska laget.</description>
+         <link>https://www.dust2.se/news/54586/officiellt-golden-blir-ny-coach-for-saw</link>
+         <guid isPermaLink="false">news54586</guid>
+         <pubDate>Mon, 28 Oct 2024 19:04:00 +0100</pubDate>
+      </item>
+      <item>
+         <title>Klart: jkaem skriver på för Lekr0s femma</title>
+         <description>Den norska spelaren går in i BC.Game.</description>
+         <link>https://www.dust2.se/news/54584/klart-jkaem-skriver-paa-for-lekr0s-femma</link>
+         <guid isPermaLink="false">news54584</guid>
+         <pubDate>Mon, 28 Oct 2024 17:11:00 +0100</pubDate>
+      </item>
+      <item>
+         <title>Johnny Speeds och Metizport inbjudna till ny turnering – över 100 000 i potten</title>
+         <description>Två svensklag är klara för turneringen.</description>
+         <link>https://www.dust2.se/news/54581/johnny-speeds-och-metizport-inbjudna-till-ny-turnering-over-100-000-i-potten</link>
+         <guid isPermaLink="false">news54581</guid>
+         <pubDate>Mon, 28 Oct 2024 15:38:00 +0100</pubDate>
+      </item>
+      <item>
+         <title>s1mple: "Jag tycker CS är i ett bra skick nu"</title>
+         <description>s1mple tycker om CS2 mer nu än för ett år sedan.</description>
+         <link>https://www.dust2.se/news/54578/s1mple-jag-tycker-cs-ar-i-ett-bra-skick-nu</link>
+         <guid isPermaLink="false">news54578</guid>
+         <pubDate>Mon, 28 Oct 2024 13:15:00 +0100</pubDate>
+      </item>
+      <item>
+         <title>Svenskduon kvalar till onlineturnering – startar idag</title>
+         <description>Svenskarna startar turneringen idag.</description>
+         <link>https://www.dust2.se/news/54574/svenskduon-kvalar-till-onlineturnering-startar-idag</link>
+         <guid isPermaLink="false">news54574</guid>
+         <pubDate>Mon, 28 Oct 2024 10:43:00 +0100</pubDate>
+      </item>
+      <item>
+         <title>Metizport representerar Sverige i internationell turnering</title>
+         <description>Tätt inpå Svenska Cupen ska Metizport flyga ner till Saudiarabien för att representera Sverige.</description>
+         <link>https://www.dust2.se/news/54572/metizport-representerar-sverige-i-internationell-turnering</link>
+         <guid isPermaLink="false">news54572</guid>
+         <pubDate>Mon, 28 Oct 2024 08:16:00 +0100</pubDate>
+      </item>
+      <item>
+         <title>SAW vinner i Katowice – kör över B8</title>
+         <description>B8 gör en imponerande insats i turneringen men lyckas inte ta sig förbi portugisiska SAW som går obesegrade i turneringen.</description>
+         <link>https://www.dust2.se/news/54564/saw-vinner-i-katowice-kor-over-b8</link>
+         <guid isPermaLink="false">news54564</guid>
+         <pubDate>Sun, 27 Oct 2024 20:12:00 +0100</pubDate>
+      </item>
+      <item>
+         <title>Ännu en förändring i Lekr0s lag</title>
+         <description>Instabilt och rörigt i BC.Game på senaste.</description>
+         <link>https://www.dust2.se/news/54560/annu-en-forandring-i-lekr0s-lag</link>
+         <guid isPermaLink="false">news54560</guid>
+         <pubDate>Sun, 27 Oct 2024 16:44:00 +0100</pubDate>
+      </item>
+   </channel>
+</rss>
