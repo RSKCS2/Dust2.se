@@ -4,7 +4,7 @@
 
 **Last updated:** 31 oktober 2024 kl 11:11
 
-Images are not appearing because they were hotlinked from HLTV.org, unfortunately the image links are dead. They are completely unrecoverable.
+Images aren't appearing because they were hotlinked from HLTV.org, unfortunately the image links are dead. They are completely unrecoverable.
 
 ## Overview
 
