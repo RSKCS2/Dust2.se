@@ -8,7 +8,7 @@ Images are not appearing because they were hotlinked from HLTV.org, unfortunatel
 
 ## Overview
 
-Dust2.se was a beloved news and community hub dedicated to the Counter‑Strike scene. On 31 October 2024, the site owners announced that Dust2.se would close permanently, leaving behind a trove of articles, interviews, and community discussions now at risk of disappearing forever.
+Dust2.se was a beloved news and community hub dedicated to the Swedish Counter‑Strike scene. On 31 October 2024, the site owners announced that Dust2.se would close permanently, leaving behind a trove of articles, interviews, and community discussions now at risk of disappearing forever.
 
 This repository is a community‑driven effort to preserve Dust2.se as lost media. All publicly available pages and assets have been scraped and are hosted here for posterity. Whether you came for the classic match reports, player interviews, or community editorials, you can find it all in this archive.
 
