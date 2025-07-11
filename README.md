@@ -1,6 +1,6 @@
 # 📦 Dust2.se Archive
 
-### rskcs2.github.io/Dust2.se/archive
+### [rskcs2.github.io/Dust2.se/archive](https://rskcs2.github.io/Dust2.se/archive)
 
 **Last updated:** 31 oktober 2024 kl 11:11
 
