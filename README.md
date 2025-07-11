@@ -2,15 +2,13 @@
 
 ### [rskcs2.github.io/Dust2.se/archive](https://rskcs2.github.io/Dust2.se/archive)
 
-**Last updated:** 31 oktober 2024 kl 11:11
+**Last updated:** Thursday, the 31st of October 2024 at 11:11 AM
 
 Images are not appearing because they were hotlinked from HLTV.org, unfortunately the image links are dead. They are completely unrecoverable.
 
 ## Overview
 
-Dust2.se was a beloved news and community hub dedicated to the Swedish Counter‑Strike scene. On 31 October 2024, the site owners announced that Dust2.se would close permanently, leaving behind a trove of articles, interviews, and community discussions now at risk of disappearing forever.
-
-This repository is a community‑driven effort to preserve Dust2.se as lost media. All publicly available pages and assets have been scraped and are hosted here for posterity. Whether you came for the classic match reports, player interviews, or community editorials, you can find it all in this archive.
+Dust2.se was a beloved news and community hub dedicated to the Swedish Counter‑Strike scene. On 31 October 2024, HLTV announced that Dust2.se would close permanently, knowing this information, the site was preserved to prevent its articles, interviews, and community discussions from becoming lost media, all publicly available pages and assets have been scraped and are hosted here for posterity, the images are gone for good though, apart from a few.
 
 ## Background
 
