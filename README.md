@@ -4,7 +4,7 @@
 
 **Last updated:** Thursday, the 31st of October 2024 at 11:11 AM
 
-Images are not appearing because they were hotlinked from HLTV.org, unfortunately the image links are dead. They are completely unrecoverable.
+Images are not appearing because they were hotlinked from HLTV.org, unfortunately the image links are dead. They are completely unrecoverable. Don't log in with Steam, I'm not sure what will happen.
 
 ## Overview
 
