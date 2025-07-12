@@ -4,12 +4,11 @@
 
 **Last updated:** Thursday, the 31st of October 2024 at 11:11 AM
 
-Images are not appearing because they were hotlinked from HLTV.org, fortunately, they are recoverable. All of them are in the hts-log.txt file, which contains thousands of hotlinks.
+Images are not appearing because they were hotlinked from HLTV.org, but they are recoverable. All of them are listed in the hts-log.txt file, which contains thousands of hotlinks. However, Cloudflare prevents downloading CDN images directly from HLTV.org.
 
 ## Overview
 
-Dust2.se was a beloved news and community hub dedicated to the Swedish Counter‑Strike scene. On 31 October 2024, HLTV announced that Dust2.se would close permanently, knowing this information, the site was preserved to prevent its articles, interviews, and community discussions from becoming lost media, all publicly available pages and assets have been scraped and are hosted here for posterity, the images are gone for good though, apart from a few.
-
+Dust2.se was a beloved news and community hub dedicated to the Swedish Counter‑Strike scene. On 31 October 2024, HLTV announced that Dust2.se would close permanently, knowing this information, the site was preserved to prevent its articles, interviews, and community discussions from becoming lost media, all publicly available pages and assets have been scraped and are hosted here for posterity.
 ## Background
 
 On 31 October 2024, Dust2.se published the following message (in Swedish):
