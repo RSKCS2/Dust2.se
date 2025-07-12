@@ -8,7 +8,7 @@ Images are not appearing because they were hotlinked from HLTV.org, but they are
 
 ## Overview
 
-Dust2.se was a beloved news and community hub dedicated to the Swedish Counter‑Strike scene. On 31 October 2024, HLTV announced that Dust2.se would close permanently, knowing this information, the site was preserved to prevent its articles, interviews, and community discussions from becoming lost media, all publicly available pages and assets have been scraped and are hosted here for posterity.
+Dust2.se was a beloved news and community hub dedicated to the Swedish Counter‑Strike scene. On 31 October 2024, HLTV announced that Dust2.se would close permanently, knowing this information, the site was preserved to prevent its articles, interviews, and community discussions from becoming lost media, almost all publicly available pages and assets (except images) have been scraped and are hosted here for posterity.
 ## Background
 
 On 31 October 2024, Dust2.se published the following message (in Swedish):
