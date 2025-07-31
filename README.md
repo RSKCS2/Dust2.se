@@ -4,7 +4,7 @@
 
 **Last updated:** Thursday, the 31st of October 2024 at 11:11 AM
 
-Images are not appearing because they were hotlinked from HLTV.org, but they are recoverable. All of them are listed in the image-links.txt file, which contains thousands of hotlinks. However, Cloudflare prevents automatic downloading of CDN images directly from HLTV.org.
+Images are not appearing because they were hotlinked from HLTV.org, but they are recoverable. All of them are listed in the [image-links.txt file](https://raw.githubusercontent.com/RSKCS2/Dust2.se/refs/heads/main/image-links.txt), which contains thousands of hotlinks. However, Cloudflare prevents automatic downloading of CDN images directly from HLTV.org.
 
 ## Overview
 
